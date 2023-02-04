@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/lucasfariadev">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaslurf&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaslurf&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasfariadev&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasfariadev&theme=radical"/>
 </div>
   
   
